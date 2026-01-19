@@ -1,6 +1,6 @@
 ### How to setup this program
 
-#### 1 - Usando Prompt de comando ou Windows Powershell, Caminha até o diretório desejado para instalação do programa (Por exemplo: C:/user/MeuUsuario/dev)
+#### 1 - Usando Prompt de comando ou Windows Powershell, caminhe até o diretório desejado para instalação do programa (Por exemplo: C:/user/MeuUsuario/dev)
 
 cd C:/user/MeuUsuario/dev
 
