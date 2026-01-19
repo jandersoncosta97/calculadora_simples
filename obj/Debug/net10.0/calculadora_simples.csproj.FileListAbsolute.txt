@@ -1,0 +1,15 @@
+C:\Users\jande\Documents\dev\calculadora_simples\obj\Debug\net10.0\calculadora_simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jande\Documents\dev\calculadora_simples\obj\Debug\net10.0\calculadora_simples.AssemblyInfoInputs.cache
+C:\Users\jande\Documents\dev\calculadora_simples\obj\Debug\net10.0\calculadora_simples.AssemblyInfo.cs
+C:\Users\jande\Documents\dev\calculadora_simples\obj\Debug\net10.0\calculadora_simples.csproj.CoreCompileInputs.cache
+C:\Users\jande\Documents\dev\calculadora_simples\obj\Debug\net10.0\calculadora_simples.sourcelink.json
+C:\Users\jande\Documents\dev\calculadora_simples\bin\Debug\net10.0\calculadora_simples.exe
+C:\Users\jande\Documents\dev\calculadora_simples\bin\Debug\net10.0\calculadora_simples.deps.json
+C:\Users\jande\Documents\dev\calculadora_simples\bin\Debug\net10.0\calculadora_simples.runtimeconfig.json
+C:\Users\jande\Documents\dev\calculadora_simples\bin\Debug\net10.0\calculadora_simples.dll
+C:\Users\jande\Documents\dev\calculadora_simples\bin\Debug\net10.0\calculadora_simples.pdb
+C:\Users\jande\Documents\dev\calculadora_simples\obj\Debug\net10.0\calculadora_simples.dll
+C:\Users\jande\Documents\dev\calculadora_simples\obj\Debug\net10.0\refint\calculadora_simples.dll
+C:\Users\jande\Documents\dev\calculadora_simples\obj\Debug\net10.0\calculadora_simples.pdb
+C:\Users\jande\Documents\dev\calculadora_simples\obj\Debug\net10.0\calculadora_simples.genruntimeconfig.cache
+C:\Users\jande\Documents\dev\calculadora_simples\obj\Debug\net10.0\ref\calculadora_simples.dll
